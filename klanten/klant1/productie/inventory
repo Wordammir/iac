@@ -4,6 +4,8 @@ omgeving=productie
 klantnummer=1
 ipdb=10.0.1.1
 
+phpfpm=php7.2-fpm
+
 networkadapter=vboxnet0
 
 [web]
